@@ -28,7 +28,9 @@ Possible scenarios/directorys are:
 
 set $SCENARIO_DIR as your chosen scenario directory and $SCENARIO as the scenario.
 e.g. 
+
 SCENARIO_DIR=resources/scenarios/custom_scenarios/labyrinth13
+
 SCENARIO=labyrinth_maze{:003}.cfg
 
 
