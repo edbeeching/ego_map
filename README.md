@@ -37,7 +37,7 @@ SCENARIO=labyrinth_maze{:003}.cfg
 ## Training
 
 set your username
-e.g. NAME=ANONYMOUS
+e.g. NAME=my_name
 
 ### Baseline recurrent agent
 
