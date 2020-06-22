@@ -1,7 +1,7 @@
 # EgoMap: Projective mapping and structured egocentric memory for Deep RL
 [Project Page](https://edbeeching.github.io/papers/egomap)
 
-Code base for paper [EgoMap: Projective mapping and structured egocentric memory for Deep RL](https://arxiv.org/abs/2002.02286)
+Code base for paper [EgoMap: Projective mapping and structured egocentric memory for Deep RL](https://arxiv.org/abs/2002.02286) (ECML 2020)
 # Installation
 Instructions to run the code for Baseline, Neural Map and EgoMap for the 4 scenarios:
 
