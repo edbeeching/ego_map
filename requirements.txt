@@ -31,7 +31,7 @@ ipython-genutils==0.2.0
 isort==4.3.4
 jedi==0.13.1
 jeepney==0.4
-Jinja2==2.10
+Jinja2==2.11.3
 joblib==0.13.1
 jsonschema==3.0.0a3
 jupyter-client==5.2.3
