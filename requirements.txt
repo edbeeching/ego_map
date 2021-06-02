@@ -11,7 +11,7 @@ cffi==1.11.5
 chardet==3.0.4
 cloudpickle==0.6.1
 coverage==4.5.2
-cryptography==2.3.1
+cryptography==3.2
 cycler==0.10.0
 decorator==4.3.0
 defusedxml==0.5.0
