@@ -53,7 +53,7 @@ numba==0.41.0
 numpy==1.15.4
 numpydoc==0.8.0
 omgifol==0.4.0
-opencv-python==3.4.3.18
+opencv-python==4.2.0.32
 packaging==18.0
 panda3d==1.10.0.dev1654
 pandas==0.23.4
