@@ -61,7 +61,7 @@ pandocfilters==1.4.2
 parso==0.3.1
 pexpect==4.6.0
 pickleshare==0.7.5
-Pillow==8.1.1
+Pillow==9.0.0
 pkg-resources==0.0.0
 pluggy==0.8.0
 prompt-toolkit==2.0.6
