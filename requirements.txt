@@ -32,7 +32,7 @@ isort==4.3.4
 jedi==0.13.1
 jeepney==0.4
 Jinja2==2.10
-joblib==0.13.1
+joblib==1.2.0
 jsonschema==3.0.0a3
 jupyter-client==5.2.3
 jupyter-core==4.4.0
